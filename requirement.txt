@@ -1,0 +1,5 @@
+pip isntall pandas
+pip install np
+pip install seaborn
+pip install scikit-learn
+pip install pandas_ml
